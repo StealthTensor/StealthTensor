@@ -21,11 +21,6 @@ Palakollu, Andhra Pradesh, India
 ![React](https://skillicons.dev/icons?i=react)
 ![NumPy](https://skillicons.dev/icons?i=numpy)
 
-## 🎯 Current Focus
-- **Data Structures and Algorithms** in C Programming
-- Building problem-solving skills through competitive programming
-- Developing foundational knowledge in software engineering principles
-
 ## 🚀 Future Learning Path
 1. **JavaScript** - Frontend and Backend Development
 2. **React** - Modern Web Development Framework
