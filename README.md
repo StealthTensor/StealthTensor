@@ -53,13 +53,13 @@ I am actively seeking opportunities to collaborate on:
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/trinai-rayabharapu-252439336)
 
 ## 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StealthTensor&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StealthTensor&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=StealthTensor&theme=radical&no-frame=true&row=1&column=6)
 
 ---
 *"The best way to learn to program is to write code, and the best way to learn to write is to read code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=StealthTensor&color=brightgreen)
