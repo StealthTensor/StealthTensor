@@ -5,7 +5,7 @@ I am a dedicated Computer Science undergraduate at SRM University with a passion
 
 ##  Education
 **Bachelor of Technology in Computer Science and Engineering**  
-SRM University | 2023 - Present
+SRM University | 2025 - Present
 
 ##  Location
 Palakollu, Andhra Pradesh, India
