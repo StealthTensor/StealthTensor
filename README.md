@@ -38,9 +38,6 @@ I am actively seeking opportunities to collaborate on:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StealthTensor&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StealthTensor&layout=compact&theme=radical&hide_border=true)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=StealthTensor&theme=radical&no-frame=true&row=1&column=6)
-
 ---
 *"The best way to learn to program is to write code, and the best way to learn to write is to read code."*
 
