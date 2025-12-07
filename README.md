@@ -1,4 +1,4 @@
-# R. Trinai - Computer Science Student & AI Enthusiast
+#  Computer Science Student & AI Enthusiast
 
 ## About Me
 I am a dedicated Computer Science undergraduate at SRM University with a passion for artificial intelligence and software development.
